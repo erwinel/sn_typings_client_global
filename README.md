@@ -1,2 +1,3 @@
 # sn_typings_client_global
-ServiceNow typings for globally-scoped client develoment
+
+TypeScript definitions for ServiceNow client-side global application development
